@@ -1,13 +1,8 @@
 # Campus-Library
 
-**Group No.: 16**
-
 **Group Members:**
 
-Krity Kumari: 20252651030 <br>
 Vinit Gaikwad Satyawan: 20252651019<br>
-Ujjwal Sharma: 20252651060<br>
-Shubhag Baluni: 20252651053<br>
 
 ## 1. Project Overview
 
@@ -35,16 +30,16 @@ The application allows users to view authors and their associated books, as well
 
 ## 4. Technologies Used
 
-| Technology | Purpose |
-|---|---|
-| HTML | Structure of the web interface |
-| CSS | Styling and layout |
-| JavaScript | Frontend interactions and API requests |
-| Node.js | Backend JavaScript runtime |
-| Apollo Server | GraphQL API server |
-| GraphQL | Query language and API operations |
-| MySQL | Relational database |
-| mysql2 | Connect Node.js to MySQL |
+| Technology     | Purpose                                   |
+| -------------- | ----------------------------------------- |
+| HTML           | Structure of the web interface            |
+| CSS            | Styling and layout                        |
+| JavaScript     | Frontend interactions and API requests    |
+| Node.js        | Backend JavaScript runtime                |
+| Apollo Server  | GraphQL API server                        |
+| GraphQL        | Query language and API operations         |
+| MySQL          | Relational database                       |
+| mysql2         | Connect Node.js to MySQL                  |
 | Git and GitHub | Version control and project collaboration |
 
 ## 5. Project Structure
@@ -170,11 +165,11 @@ The mutation inserts a book associated with the specified author and returns the
 
 **Group No.: 16**
 
-| S. No. | Name | Roll Number |
-|---|---|---|
-| 1 | [Member 1 Name] | [Roll Number] |
-| 2 | [Member 2 Name] | [Roll Number] |
-| 3 | [Member 3 Name] | [Roll Number] |
+| S. No. | Name            | Roll Number   |
+| ------ | --------------- | ------------- |
+| 1      | [Member 1 Name] | [Roll Number] |
+| 2      | [Member 2 Name] | [Roll Number] |
+| 3      | [Member 3 Name] | [Roll Number] |
 
 **Faculty Guide:** To be added, if applicable.
 
@@ -198,7 +193,3 @@ Through this project, we explore:
 - Improve validation and error handling.
 
 ---
-
-**Project:** Campus Library Management System  
-**Group:** 16  
-**Repository:** https://github.com/Krity717/Campus-Library
